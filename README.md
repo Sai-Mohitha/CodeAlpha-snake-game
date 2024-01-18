@@ -26,4 +26,4 @@ This is a simple implementation of the classic Snake game using Python and the P
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/snake-game-python.git
+   git clone https://github.com/Sai-Mohitha/CodeAlpha-snake-game.git
